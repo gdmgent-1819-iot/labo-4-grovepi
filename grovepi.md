@@ -28,5 +28,5 @@ Je kan sensoren en andere hardware apart verkrijgen of samen met de GrovePi best
 Wanneer we de hardware gaan connecteren moeten we opletten wat we waar aansluiten. Bij elke aansluiting staat wat voor poort het is. 
 De A-poorten zijn analoog, D-poorten zijn digitaal, verder heb je nog de seriële poort en de I2C-poorten.
 
-![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/Hardware.png)
+![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/poorten.png)
 
