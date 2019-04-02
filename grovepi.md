@@ -30,3 +30,31 @@ De A-poorten zijn analoog, D-poorten zijn digitaal, verder heb je nog de seriël
 
 ![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/poorten.png)
 
+## Software setup
+
+Op je raspberry, navigeer naar een map waar je de GrovePi files wilt installeren.
+![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code1.png)
+
+In die map clone je de GrovePi github repo door volgend commando uit te voeren:
+```
+git clone https://github.com/DexterInd/GrovePi
+```
+
+Dan krijg je volgende response:
+![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code2.png)
+
+Er is nu een GrovePi map aangemaakt, navigeer naar deze map door volgende commando’s uit te voeren: 
+
+```
+cd GrovePi
+```
+
+![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code3.png)
+
+Installeer de GrovePi library door volgend commando uit te voeren:
+
+```
+curl -kL dexterindustries.com/update_grovepi | bash
+```
+
+![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code4.png)
