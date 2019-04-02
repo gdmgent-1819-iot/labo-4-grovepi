@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://www.thelab.sg/wordpress/wp-content/uploads/Grove-Pi.2.jpg)
+![Image of Yaktocat](https://static.generation-robots.com/7399/grovepi-plus-sensor-interface-module-for-raspberry-pi.jpg)
 
 # GROVEPI
 
