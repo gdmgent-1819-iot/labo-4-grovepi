@@ -21,6 +21,8 @@ We connecteren ze door de GrovePi op de raspberry te zetten. Pas op en plaats de
 
 Je kan sensoren en andere hardware apart verkrijgen of samen met de GrovePi bestellen. Deze connecteer je dan met de GrovePi via de 4-pin connectoren. Je mag de hardware niet zomaar connecteren want zoals boven vermeld zijn niet al de poorten hetzelfde. 
 
+![Image of Yaktocat](https://plus.google.com/photos/photo/108068654917168499452/6675225546954954498?authkey=CJ2GzYCg1ri3sAE)
+
 ### Connecteren 
 
 Wanneer we de hardware gaan connecteren moeten we opletten wat we waar aansluiten. Bij elke aansluiting staat wat voor poort het is. 
