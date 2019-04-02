@@ -66,7 +66,6 @@ Navigeer naar de Python map en voer de grovepi.py applicatie uit:
 ```
 cd Software/Python
 python grovepi.py
-
 ```
 
 ![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code5.png)
