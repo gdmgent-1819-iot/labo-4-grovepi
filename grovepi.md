@@ -71,3 +71,35 @@ python grovepi.py
 ![Image of Yaktocat](https://github.com/gdmgent-1819-iot/labo-4-grovepi/blob/master/pictures/code5.png)
 
 Als alles goed is verlopen krijg je bovenstaande response.
+
+## Writing python
+
+Hieronder vind je een voorbeeld programma om het ledje aan te sturen, sluit de led aan op poort D4. 
+
+```
+import time
+from grovepi import *
+
+led = 4
+
+pinMode(led,"OUTPUT")
+time.sleep(1)
+
+while True:
+    try:
+        digitalWrite(led,1)
+        time.sleep(1)
+
+        digitalWrite(led,0)
+        time.sleep(1)
+
+    except KeyboardInterrupt:
+        digitalWrite(led,0)
+        break
+```
+
+de bovenstaande code zet je in een file met .py als extentie. In je terminal navigeer je dan naar waar dit bestand staat en voer je het volgende commando uit om het programma te runnen. 
+
+```
+Python led_blink.py
+```
